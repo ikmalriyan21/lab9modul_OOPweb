@@ -188,15 +188,15 @@ praktikum hari ini kita akan langsung membuat OOP dengan menambahkan header,foot
 
 ![input](https://github.com/ikmalriyan21/lab9modul_OOPweb/blob/c287e40b44eaabd254b5f54a4c4f20e8b6505728/gambar/output%20tambah%20barang.png)
 
+# Ubah Barang
 
 
 
 
 
+![input](https://github.com/ikmalriyan21/lab9modul_OOPweb/blob/c239ef9c0c628004233f09c387166ba24b5dc38a/gambar/output%20ubah%20barang.png)
 
-
-
-
+# Crud untuk menghapus. Jika kalian ingin menghapus data ini, kalian tinggal klik tanda hapus, maka otomatis data tersebut akan terhapus.
 
 
 
