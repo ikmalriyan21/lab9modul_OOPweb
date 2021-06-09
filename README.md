@@ -36,6 +36,22 @@ Kemudian kalian buat file yang baru dengan nama about.php
 
 
 
+![input](https://github.com/ikmalriyan21/lab9modul_OOPweb/blob/4870a0bf46f7fb1f69173b54a5aefe02984096f3/gambar/codingan%20about.png)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
