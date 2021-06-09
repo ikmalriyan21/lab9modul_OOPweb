@@ -134,9 +134,9 @@ praktikum hari ini kita akan langsung membuat OOP dengan menambahkan header,foot
 
 
 
+![input](https://github.com/ikmalriyan21/lab9modul_OOPweb/blob/d60b30ebe803977f1fa7370e4e4d31478b68393e/lab9_praktikum/SS%20project/codingan%20ubah%203.png)
 
-
-
+# Ketujuh buat file baru dengan nama hapus.php
 
 
 
