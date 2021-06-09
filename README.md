@@ -202,4 +202,4 @@ praktikum hari ini kita akan langsung membuat OOP dengan menambahkan header,foot
 
 
 
-
+![input](https://github.com/ikmalriyan21/lab9modul_OOPweb/blob/5297c9191e2d724914be1b543d9182ba83b53bb8/gambar/output%20untuk%20menghapus%20barang.png)
