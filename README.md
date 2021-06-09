@@ -72,9 +72,9 @@ praktikum hari ini kita akan langsung membuat OOP dengan menambahkan header,foot
 
 
 
+![input](https://github.com/ikmalriyan21/lab9modul_OOPweb/blob/c0f9b1a2ed02dc0e08d09b67a929dc9e2deffd69/lab9_praktikum/SS%20project/codingan%20header%202.png)
 
-
-
+# Ketiga buat file baru dengan nama footer.php
 
 
 
