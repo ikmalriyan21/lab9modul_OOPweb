@@ -180,6 +180,21 @@ praktikum hari ini kita akan langsung membuat OOP dengan menambahkan header,foot
 
 ![input](https://github.com/ikmalriyan21/lab9modul_OOPweb/blob/e5c7feee0683a6985ceb909b8a81665d9ef094d7/gambar/output%20database.png)
 
+# Tambah Barang
+
+
+
+
+
+![input](https://github.com/ikmalriyan21/lab9modul_OOPweb/blob/c287e40b44eaabd254b5f54a4c4f20e8b6505728/gambar/output%20tambah%20barang.png)
+
+
+
+
+
+
+
+
 
 
 
