@@ -20,6 +20,16 @@ Selanjutnya membuat file footer.php
 
 
 
+![input](https://github.com/ikmalriyan21/lab9modul_OOPweb/blob/0395448b4fefe4dc11a3bd094183bde312e2ac66/gambar/codingan%20footer%201.png)
+
+
+
+
+
+
+
+
+
 
 
 
