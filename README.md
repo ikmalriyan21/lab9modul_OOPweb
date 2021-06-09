@@ -22,15 +22,15 @@ Selanjutnya membuat file footer.php
 
 ![input](https://github.com/ikmalriyan21/lab9modul_OOPweb/blob/0395448b4fefe4dc11a3bd094183bde312e2ac66/gambar/codingan%20footer%201.png)
 
+Jika sudah, kalian membuat file kembali dengan nama home.php
 
 
 
 
 
+![input](https://github.com/ikmalriyan21/lab9modul_OOPweb/blob/8474e54b761e67096c470111f6cce6022d563049/gambar/codingan%20home%201.png)
 
-
-
-
+Kemudian kalian buat file yang baru dengan nama about.php
 
 
 
