@@ -58,7 +58,30 @@ Kemudian kalian buat file yang baru dengan nama about.php
 
 praktikum hari ini kita akan langsung membuat OOP dengan menambahkan header,footer,home,ubah,hapus,tambah seperti kalian harus membuat sebuah folder baru kembali dengan nama lab9_praktikum karena disini akan mempraktikan cara/pengkondisian sebuah data
 
-Buat file yang baru dengan nama koneksi.php
+# Pertama buat file yang baru dengan nama koneksi.php
+
+
+
+
+
+![input](https://github.com/ikmalriyan21/lab9modul_OOPweb/blob/3ad2a0d3240ee5b5923ceadc0ebf3d8daf43406c/lab9_praktikum/SS%20project/codingan%20koneksi.png)
+
+# Kedua buat file baru dengan nama header.php 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
