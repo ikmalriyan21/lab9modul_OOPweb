@@ -46,6 +46,23 @@ Kemudian kalian buat file yang baru dengan nama about.php
 
 ![input](https://github.com/ikmalriyan21/lab9modul_OOPweb/blob/91d3435f01cfe6ccd9a39b57625073d638452fea/gambar/output%20modularisasi.png)
 
+# Dan ini adalah menu about nya
+
+
+
+
+
+![input](https://github.com/ikmalriyan21/lab9modul_OOPweb/blob/e4f43e454cad9bba20c052f3ccc5a35a9720bb75/gambar/output%20modularisasi%20about.png)
+
+# Praktikum 9
+
+praktikum hari ini kita akan langsung membuat OOP dengan menambahkan header,footer,home,ubah,hapus,tambah seperti kalian harus membuat sebuah folder baru kembali dengan nama lab9_praktikum karena disini akan mempraktikan cara/pengkondisian sebuah data
+
+Buat file yang baru dengan nama koneksi.php
+
+
+
+
 
 
 
