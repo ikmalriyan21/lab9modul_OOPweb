@@ -156,7 +156,7 @@ praktikum hari ini kita akan langsung membuat OOP dengan menambahkan header,foot
 
 
 
-
+![input](https://github.com/ikmalriyan21/lab9modul_OOPweb/blob/9f9d07933edc4f027eeeabf9a72ccb6a360953cd/lab9_praktikum/SS%20project/codingan%20style.css%202.png)
 
 
 
