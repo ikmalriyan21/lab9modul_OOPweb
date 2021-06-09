@@ -116,13 +116,13 @@ praktikum hari ini kita akan langsung membuat OOP dengan menambahkan header,foot
 
 ![input](https://github.com/ikmalriyan21/lab9modul_OOPweb/blob/02ed6f79e99624d402ca41168e2c5a4e57141eca/lab9_praktikum/SS%20project/codingan%20tambah%203.png)
 
+# Keenam buat file baru dengan nama ubah.php
 
 
 
 
 
-
-
+![input](https://github.com/ikmalriyan21/lab9modul_OOPweb/blob/02b44e0033ab0642bbdd5795a184dffb1b70c20d/lab9_praktikum/SS%20project/codingan%20ubah%201.png)
 
 
 
